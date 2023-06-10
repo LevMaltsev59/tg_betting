@@ -1,0 +1,4 @@
+telebot
+psycopg2
+dotenv
+pathlib
